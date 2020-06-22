@@ -22,5 +22,5 @@ Work experience
 * April 2016 - January 2017: Process Automation Engineer
   * Eldor Corporation
   
-* Septembet 2015 - January 2016: Undergraduate Teaching Assistant
+* September 2015 - January 2016: Undergraduate Teaching Assistant
   * ME 303 Industrial Control Course in Sabanci University
