@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ömer Tiryakiler, M.Sc."
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Ömer Tiryakiler, M.Sc."
 description              : &description "Automation and Control Engineer"
