@@ -16,8 +16,11 @@ Education
 
 Work experience
 ======
-* Automation Engineer
+* February 2020 - present: Automation Engineer
   * Eldor Corporation
 
 * April 2016 - January 2017: Process Automation Engineer
   * Eldor Corporation
+  
+* Septembet 2015 - January 2016: Undergraduate Teaching Assistant
+  * ME 303 Industrial Control Course in Sabanci University
