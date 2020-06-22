@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Hello my dear guest :) Welcome to my personal web page!"
-excerpt: "Welcome to my personal web page! "
+title: "Hello my dear guest :) 
+        Welcome to my personal web page!"
+excerpt: "Hello my dear guest :) Welcome to my personal web page!"
 author_profile: true
 redirect_from: 
   - /about/
