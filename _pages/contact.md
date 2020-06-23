@@ -8,5 +8,5 @@ author_profile: true
 
 e-mail:
 ---
-omer.tiryakiler@mail.polimi.it
-tiryakiler@sabanciuniv.edu
+* omer.tiryakiler@mail.polimi.it
+* tiryakiler@sabanciuniv.edu
