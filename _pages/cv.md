@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mechatronics Engineering, Sabanci University, 2016
 * M.Sc. in Automation and Control Engineering, Politecnico di Milano, 2019
+* B.Sc. in Mechatronics Engineering, Sabanci University, 2016
 
 Work experience
 ======
