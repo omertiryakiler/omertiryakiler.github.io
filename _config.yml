@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  some-photos:
+  somephotos:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _some-photos
+  # _somephotos
   - scope:
       path: ""
-      type: some-photos
+      type: somephotos
     values:
       layout: single
       author_profile: true
