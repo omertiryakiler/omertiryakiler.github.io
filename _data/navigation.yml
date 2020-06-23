@@ -2,7 +2,7 @@
 main: 
     
   - title: "Some Photos"
-    url: /some-photos/
+    url: /somephotos/
         
   - title: "Blog Posts"
     url: /year-archive/
