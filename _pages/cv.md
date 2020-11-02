@@ -28,5 +28,6 @@ Work experience
 Publication
 ======
 * Conference Proceeding
+======
   * Askarpour, M., Rossi, M., & Tiryakiler, O. (2020, September). ‘Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation’. Paper presented at AREA 2020: 1st Workshop on Agents and Robots for Reliable Engineered Autonomy, co-located with 24th European Conference in Artificial Intelligence, Santiago di Compostela, Spain: EPTCS 319, 2020, pp. 1-8. doi 10.4204/EPTCS.319.1 
 
